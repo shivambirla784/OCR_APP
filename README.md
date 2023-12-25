@@ -3,6 +3,7 @@ An OCR (Optical Character Recognition) App that can recognize thai id cards and 
 This README provides instructions for setting up and running the Optical Character Recognition (OCR) App. The application is designed to recognize Thai ID cards, extract relevant information using Google Vision API, and store the data in a MongoDB database. The tech stack includes Python (Flask), React, Node.js, and MongoDB.
 
 Table of Contents
+
 1.Setup Instructions
 
 2.Dependencies
